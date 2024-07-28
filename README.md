@@ -3,29 +3,63 @@
 
 ## 🛠️ Tech Stack
 
-### Языки программирования
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+### Языки программирования и работы с данными
+- **Java**
+- **XPath**
 
-### Библиотеки
-![Selenide](https://img.shields.io/badge/Selenide-2B2E3A?style=for-the-badge&logo=selenium&logoColor=white)
+### Фреймворки и библиотеки для тестирования
+- **JUnit**
+- **Selenium**
+- **Selenide**
 
-### Фреймворки
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-25A162?style=for-the-badge&logo=testng&logoColor=white)
+### Инструменты для API тестирования
+- **Postman**
 
-### Инструменты отчетности
-![Allure](https://img.shields.io/badge/Allure-2C7BB6?style=for-the-badge&logo=allure&logoColor=white)
+### Управление проектами и зависимостями
+- **Maven**
 
-### Дополнительные инструменты
-![XPath](https://img.shields.io/badge/XPath-FFCA28?style=for-the-badge&logo=xml&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Логирование
+- **Logback**
 
-## 📫 Контактная информация
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Ваш LinkedIn](#)
-- GitHub: [Ваш GitHub](#)
+### Системы контроля версий
+- **GitHub**
+- **Git**
+- **GitLab**
 
----
+## Инструменты для изучения
 
-*Здесь можно добавить дополнительную информацию о себе, если нужно.*
+### Языки для работы с данными
+- **SQL**
+
+### Фреймворки и библиотеки для тестирования
+- **TestNG**
+- **Cucumber**
+- **RestAssured**
+
+### Управление проектами и зависимостями
+- **Gradle**
+
+### CI/CD
+- **Jenkins**
+- **GitLab CI/CD**
+
+### Контейнеризация и оркестрация
+- **Docker**
+
+### Отчётность и мониторинг
+- **Allure**
+
+### Нагрузочное тестирование
+- **JMeter**
+
+### Мобильное тестирование
+- **Appium**
+
+## Контакты
+- **GitHub**: [Ваш профиль GitHub](https://github.com/ваш_профиль)
+- **LinkedIn**: [Ваш профиль LinkedIn](https://www.linkedin.com/in/ваш_профиль)
+
+## Связаться со мной
+Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной по электронной почте: [ваш_емейл@почта.com](mailto:ваш_емейл@почта.com)
+
+Спасибо за внимание!
