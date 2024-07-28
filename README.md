@@ -4,22 +4,22 @@
 ## 🛠️ Tech Stack
 
 ### Языки программирования
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Библиотеки
-![Selenide](https://img.shields.io/badge/-Selenide-43B02A?logo=selenium&logoColor=white)
+![Selenide](https://img.shields.io/badge/Selenide-2B2E3A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### Фреймворки
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white)
-![TestNG](https://img.shields.io/badge/-TestNG-25A162?logo=testng&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-25A162?style=for-the-badge&logo=testng&logoColor=white)
 
 ### Инструменты отчетности
-![Allure](https://img.shields.io/badge/-Allure-2C7BB6?logo=allure&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-2C7BB6?style=for-the-badge&logo=allure&logoColor=white)
 
 ### Дополнительные инструменты
-![XPath](https://img.shields.io/badge/-XPath-FFCA28?logo=xml&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![XPath](https://img.shields.io/badge/XPath-FFCA28?style=for-the-badge&logo=xml&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📫 Контактная информация
 - Email: [your-email@example.com](mailto:your-email@example.com)
